@@ -87,6 +87,20 @@ font-family: 'Raleway', sans-serif;*/
     margin-bottom: 30px;
     display: flex;
 }
+.icon img.lightbulb {
+    margin: auto;
+    max-height: 28px;
+}
+.icon img.keyboard {
+    margin: auto;
+    max-height: 21px;
+}
+.icon img.flash {
+    margin: auto;
+    max-height: 30px;
+}
+
+/*
 .main.advantages span {
     margin: auto;
 }
@@ -101,6 +115,7 @@ font-family: 'Raleway', sans-serif;*/
 .main.advantages span.icon_flashflash {
     background-image: url("../img/flash.svg");
 }
+*/
 
 .advantages h5 {
     font-family: 'Open Sans', sans-serif;
